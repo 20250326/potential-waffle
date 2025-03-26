@@ -1,0 +1,223 @@
+{
+  "model": [
+    "default",
+    "majicmixRealistic_v7"
+  ],
+  "age": [
+    "young Japanese woman, in her early 30s"
+  ],
+  "appearance": [
+    "classy and tall, has medium breasts, elegant posture",
+    "natural skin texture, realistic skin pores, detailed facial features"
+  ],
+  "expression": [
+    "Smiling at me",
+    "Shy Smile",
+    "Warm-Smile",
+    "Encouraging-Smile",
+    "subtle shy smile",
+    "loving gaze with a tender smile",
+    "grateful smile with teary eyes",
+    "anxious expression with furrowed brows",
+    "realizing look with wide eyes and parted lips",
+    "reassured smile with soft eyes",
+    "relaxed expression with a gentle smile",
+    "melancholic look with downcast eyes",
+    "playful smile with bright eyes"
+  ],
+  "hair": [
+    "shiny flowing hair"
+  ],
+  "skin": [
+    "shiny skin",
+    "natural skin texture, realistic skin pores"
+  ],
+  "emotion": [
+    "loving someone deeply",
+    "feeling grateful",
+    "feeling anxious",
+    "realizing something important",
+    "feeling reassured",
+    "feeling relaxed",
+    "feeling melancholic",
+    "simply enjoying"
+  ],
+  "lighting": [
+    "soft natural lighting with warm tones, enhancing a loving mood",
+    "gentle sunlight with a golden glow, highlighting gratitude",
+    "dim lighting with cool shadows, creating an anxious atmosphere",
+    "sudden soft light breaking through clouds, symbolizing realization",
+    "warm soft light with a comforting glow, creating a reassuring atmosphere",
+    "calm natural light with a serene tone, enhancing a relaxed mood",
+    "soft dim light with muted tones, reflecting a melancholic mood",
+    "bright cheerful light with vibrant colors, highlighting a joyful mood"
+  ],
+  "reflection": [
+    "thinking about how much she cherishes this moment",
+    "reflecting on the kindness she received",
+    "wondering if she made the right choice",
+    "realizing how much she has grown",
+    "feeling safe and at peace with herself",
+    "letting go of her worries for the first time",
+    "pondering what she could have done differently",
+    "savoring the joy of living in the moment"
+  ],
+  "location": [
+    {
+      "name": "in a quiet park with cherry blossoms",
+      "storyStep": "She twirls in a light sundress under pink cherry blossoms, her anxious expression showing as she waits for a delayed meeting, wondering if she made the right choice, her hands fidgeting with the hem of her dress"
+    },
+    {
+      "name": "at a traditional onsen town",
+      "storyStep": "She relaxes in a cute obi-tied bathrobe, feeling reassured with a soft smile as the steam rises around her, feeling safe and at peace with herself, her shoulders visibly loosening"
+    },
+    {
+      "name": "at a billiards lounge",
+      "storyStep": "She leans over the pool table in sleek leather pants, her melancholic look showing as she recalls her breakup with a past lover while staring at the cue ball, pondering what she could have done differently, her fingers tracing the edge of the table"
+    },
+    {
+      "name": "in her bedroom, sunlight streaming in",
+      "storyStep": "She sits on the bed in white lacy lingerie, feeling relaxed with a gentle smile as sunlight glows around her, letting go of her worries for the first time, her hands resting calmly in her lap"
+    },
+    {
+      "name": "at a night pool",
+      "storyStep": "She lounges by the glowing pool in a sleek swimsuit, her melancholic look showing as she recalls her last conversation with a faraway best friend, but she takes a deep breath to steady herself and offers a quiet smile, pondering what she could have done differently, her fingers trailing in the water"
+    },
+    {
+      "name": "by the seaside at sunset",
+      "storyStep": "She walks barefoot in a flowy beach dress, feeling relaxed with a gentle smile as the waves crash nearby, letting go of her worries for the first time, her hair swaying softly in the breeze"
+    },
+    {
+      "name": "at a cozy cafe",
+      "storyStep": "She sips coffee in a cozy sweater, her eyes lighting up with love as she gazes across the table at her partner, thinking about how much she cherishes this moment, her fingers gently wrapping around the warm mug"
+    },
+    {
+      "name": "at a trendy bar",
+      "storyStep": "She adjusts her black mini dress, her loving gaze softening as she spots someone special under dim lights, thinking about how much she cherishes this moment, her hand brushing a strand of hair behind her ear"
+    },
+    {
+      "name": "at a rooftop botanical garden",
+      "storyStep": "She smells flowers in a pastel cardigan, her loving gaze softening as she thinks of someone special with the city skyline in the background, thinking about how much she cherishes this moment, her fingers delicately touching the petals"
+    },
+    {
+      "name": "in a bustling night market",
+      "storyStep": "She bites into street food in a cool jacket, her loving gaze following someone through the crowd under bright lights, thinking about how much she cherishes this moment, her lips curling into a small smile"
+    },
+    {
+      "name": "in a busy Tokyo street",
+      "storyStep": "A stylish woman in a suit stands amid neon lights, her face showing gratitude as she clutches a small gift from a friend, reflecting on the kindness she received, her eyes glistening with unshed tears"
+    },
+    {
+      "name": "on a rooftop with city lights",
+      "storyStep": "She sparkles in a chic cocktail dress, her eyes teary with gratitude as she looks at the twinkling lights after a heartfelt conversation, reflecting on the kindness she received, her hand resting lightly on the railing"
+    },
+    {
+      "name": "at a festival with lanterns",
+      "storyStep": "She ties a wish to a lantern in a colorful yukata, her grateful smile glowing softly as she whispers a thank you for a recent act of kindness, reflecting on the kindness she received, her fingers trembling with emotion"
+    },
+    {
+      "name": "at a shopping district",
+      "storyStep": "She tries on a trendy trench coat, suddenly realizing something important about her future as her eyes widen in the mirror, realizing how much she has grown, her hand pausing mid-motion"
+    },
+    {
+      "name": "in a hidden Shibuya alley",
+      "storyStep": "She sips a drink in a leather jacket, realizing something important about her past choices as neon signs reflect in her wide eyes, realizing how much she has grown, her grip tightening on the glass"
+    },
+    {
+      "name": "at a luxury hotel with a view",
+      "storyStep": "She stands by a window in an elegant evening gown, her eyes widening in realization as she holds champagne and looks at the view after a deep conversation, realizing how much she has grown, her posture straightening with newfound clarity"
+    },
+    {
+      "name": "at an art gallery opening",
+      "storyStep": "She admires a painting in a flowy midi dress, her anxious expression showing as she hears footsteps behind her, but her face softens into a reassured smile as she recognizes a familiar voice, wondering if she made the right choice, her fingers nervously adjusting her dress strap"
+    },
+    {
+      "name": "on a scenic drive",
+      "storyStep": "She leans out a car window in a cozy sweater, her loving gaze fixed on the horizon as the wind tousles her hair after a meaningful talk, thinking about how much she cherishes this moment, her scarf fluttering behind her"
+    },
+    {
+      "name": "at a music festival",
+      "storyStep": "She dances in a boho dress, simply enjoying the moment with a playful smile under the festival lights after a long week, savoring the joy of living in the moment, her arms swaying to the rhythm"
+    },
+    {
+      "name": "at a retro arcade",
+      "storyStep": "She cheers in denim overalls, simply enjoying the game with a playful smile as her hands tremble with excitement while pressing buttons on a vintage machine after a tough day, savoring the joy of living in the moment"
+    }
+  ],
+  "clothing": {
+    "at a cozy cafe": ["casual sweater", "white blouse"],
+    "in a busy Tokyo street": ["stylish jacket and skirt", "trendy dress"],
+    "in a quiet park with cherry blossoms": ["light sundress", "beige camisole"],
+    "at a shopping district": ["trendy trench coat", "chic jumpsuit"],
+    "on a scenic drive": ["cozy sweater and scarf", "denim jacket and skirt"],
+    "at a music festival": ["boho dress with boots", "graphic tee and shorts"],
+    "at a billiards lounge": ["sleek leather pants and top", "casual shirt with jeans"],
+    "in a hidden Shibuya alley": ["leather jacket and boots", "denim skirt with a bold top"],
+    "at a trendy bar": ["black mini dress", "velvet blazer with pants"],
+    "at a festival with lanterns": ["colorful yukata", "floral hair accessories with a simple dress"],
+    "at an art gallery opening": ["flowy midi dress with heels", "tailored blazer and skirt"],
+    "at a retro arcade": ["vintage tee and shorts", "denim overalls"],
+    "in a bustling night market": ["cool jacket and jeans", "sparkly top"],
+    "by the seaside at sunset": ["Knit Bikini", "flowy beach dress"],
+    "at a traditional onsen town": ["bathrobe with a cute obi", "flowy kimono-style top"],
+    "at a rooftop botanical garden": ["pastel cardigan and skirt", "floral blouse with jeans"],
+    "on a rooftop with city lights": ["chic cocktail dress", "red lacy bra top with a jacket"],
+    "at a night pool": ["sleek swimsuit", "sparkly bikini with a cover-up"],
+    "at a luxury hotel with a view": ["elegant evening gown", "silk robe with heels"],
+    "in her bedroom, sunlight streaming in": ["white bra top", "white camisole", "white lacy lingerie"]
+  },
+  "pose": [
+    "Standing",
+    "Sitting",
+    "Spread legs",
+    "Leaning Forward",
+    "natural hand pose, five fingers, realistic finger orientation"
+  ],
+  "style": [
+    "gravure style",
+    "intimate and cozy atmosphere",
+    "photorealistic, soft natural lighting, detailed shadows"
+  ],
+  "others": [
+    "she hides her love inside"
+  ],
+  "negative_prompt": [
+    "plastic skin, airbrushed, overprocessed, artificial, blurry, low quality, deformed, distorted, unnatural expression, flat lighting, extra fingers, missing fingers, deformed fingers, six fingers, four fingers"
+  ],
+  "parameters": {
+    "default": {
+      "steps": 30,
+      "cfg_scale": 7,
+      "sampler": "Euler a",
+      "hires_fix": false
+    },
+    "majicmixRealistic_v7": {
+      "steps": 40,
+      "cfg_scale": 6,
+      "sampler": "Euler a",
+      "hires_fix": true,
+      "hires_steps": 15,
+      "hires_denoising_strength": 0.18,
+      "resolution": "512x768"
+    }
+  },
+  "post_processing": {
+    "ADetailer": {
+      "face": {
+        "model": "face_yolov8n.pt",
+        "prompt": "natural skin texture, realistic skin pores, subtle shy smile",
+        "negative_prompt": "plastic skin, airbrushed, overprocessed, artificial, blurry, low quality, unnatural expression"
+      },
+      "hand": {
+        "model": "hand_yolov8n.pt",
+        "prompt": "five fingers, realistic finger orientation, detailed skin texture",
+        "negative_prompt": "extra fingers, missing fingers, deformed fingers, six fingers, four fingers"
+      }
+    },
+    "ControlNet": {
+      "model": "OpenPose",
+      "control_weight": 0.9,
+      "prompt": "natural hand pose, five fingers, realistic finger orientation"
+    }
+  }
+}

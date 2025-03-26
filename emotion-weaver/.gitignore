@@ -1,0 +1,14 @@
+# IDE 固有のファイル
+.classpath
+.project
+.settings/
+
+# Maven 関連の生成ファイル
+target/
+dependency-reduced-pom.xml
+
+# プログラムの出力ファイル
+output/
+
+# その他
+*.log
