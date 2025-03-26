@@ -75,7 +75,7 @@ public class PromptBuilder {
             String[] reflectionOptions = (String[]) variations.get("reflection");
             String selectedReflection = reflectionOptions[random.nextInt(reflectionOptions.length)];
 
-            String template = "%s, %s, %s, %s with %s and %s, %s, wearing %s, %s, %s, %s, %s";
+            String template = "%s, %s, %s, with %s and %s, %s, wearing %s, %s";
             String[] keys = { "lora", "age", "appearance", "expression", "hair", "skin", "location", "clothing", "pose",
                     "emotion", "lighting", "reflection", "negative_prompt" };
             String[] selectedValues = new String[keys.length];
@@ -110,9 +110,9 @@ public class PromptBuilder {
 
             // プロンプト生成
             String basePrompt = String.format(template,
-                    selectedValues[0], selectedValues[1], selectedValues[2], selectedValues[3],
-                    selectedValues[4], selectedValues[5], selectedValues[6], selectedValues[7],
-                    selectedValues[8], selectedValues[9], selectedValues[10], selectedValues[11]);
+                    selectedValues[0], selectedValues[1], selectedValues[2], selectedValues[4], 
+                    selectedValues[5], selectedValues[6], selectedValues[7],
+                    selectedValues[8]);
 
             String style = ((String[]) variations.get("style"))[random
                     .nextInt(((String[]) variations.get("style")).length)];

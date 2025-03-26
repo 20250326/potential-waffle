@@ -12,7 +12,7 @@ public class StoryPromptGenerator {
             Map<String, Object> variations = jsonParser.parseVariationsJson();
 
             // プロンプト生成
-            String loraTag = "<lora:more_details:0.4>";
+            String loraTag = "<lora:Natural_Breasts:0.4>";
             PromptBuilder promptBuilder = new PromptBuilder(variations, loraTag);
             List<String> prompts = promptBuilder.generatePrompts();
 
